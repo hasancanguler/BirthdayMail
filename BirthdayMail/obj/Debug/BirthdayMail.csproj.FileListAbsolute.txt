@@ -1,0 +1,13 @@
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\BirthdayMail.exe.config
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\BirthdayMail.exe
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\BirthdayMail.pdb
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csprojAssemblyReference.cache
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csproj.CoreCompileInputs.cache
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.exe
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.pdb
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\Model.dll
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\GLib.dll
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\Model.pdb
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\GLib.pdb
+E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\GLib.dll.config
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csproj.CopyComplete

@@ -1,0 +1,2 @@
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Release\BirthdayMail.csprojAssemblyReference.cache
+E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Release\BirthdayMail.csproj.CoreCompileInputs.cache
