@@ -11,3 +11,15 @@ E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\Model.pdb
 E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\GLib.pdb
 E:\yedek\Project\BirthdayMail\BirthdayMail\bin\Debug\GLib.dll.config
 E:\yedek\Project\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.exe
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.pdb
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\BirthdayMail.exe.config
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\BirthdayMail.exe
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\BirthdayMail.pdb
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\EntityFramework.dll
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\EntityFramework.xml
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasan\Desktop\Projeler\Git\hasancanguler\BirthdayMail\BirthdayMail\obj\Debug\BirthdayMail.csproj.CopyComplete

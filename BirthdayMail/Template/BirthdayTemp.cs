@@ -10,7 +10,7 @@ namespace BirthdayMail.Template
     {
         public string GetTemplate()
         {
-            string Body = "<html><body><img src=\"https://exceptionnotfound.net/content/images/2019/04/matthew-headshot-enf-site-4.jpg\"></body></html>";
+            string Body = "<html><body><img src=\"http://servis.habermetre.com/content/images/dg/dg.jpg\"></body></html>";
 
             return Body;
         }

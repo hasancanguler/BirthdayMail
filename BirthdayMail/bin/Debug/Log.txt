@@ -1,0 +1,5 @@
+29.12.2020 15:47:40 - Program Başladı
+29.12.2020 15:47:42 - Kişi bulundu : HASAN CAN GÜLER
+29.12.2020 15:47:42 - Hata oluştu : 'address' parametresi boş dize olamaz.
+Parametre adı: address
+29.12.2020 15:47:42 - Bitti

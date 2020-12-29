@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BirthdayMail
 {
-    public class Notification
+    public class Notification 
     {
         private IMessenger _messenger;
         public Notification(IMessenger messenger )
